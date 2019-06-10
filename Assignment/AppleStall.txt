@@ -1,0 +1,32 @@
+Apple Stall
+Premium
+Red Delicious
+1.00
+Premium
+Gala
+1.20
+Standard
+Fuji
+5.00
+Standard
+Granny Smith
+5.50
+Discount
+Honeycrisp
+5.00
+Discount
+Cripps Pink
+8.00
+Premium
+Golden Delicious
+9.00
+Special
+Autumn Glory
+9.00
+Standard
+Braeburn
+2.00
+Special
+Jazz
+2.50
+END
